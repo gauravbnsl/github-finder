@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg-primary {
+  background-color: yellowgreen;
+}
+
+.round-img {
+  border-radius: 50%;
+}
