@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SACF,CAEA,YACE,wBACF,CAEA,WACE,iBACF","file":"main.9a774fa0.chunk.css","sourcesContent":["* {\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n\r\n.bg-primary {\r\n  background-color: yellowgreen;\r\n}\r\n\r\n.round-img {\r\n  border-radius: 50%;\r\n}\r\n"]}
