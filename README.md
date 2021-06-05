@@ -1,8 +1,9 @@
-# Screenshot
-![image](https://user-images.githubusercontent.com/25008254/120892838-b6f0e280-c62d-11eb-9dbf-1a4766bdb5e4.png)
-
 # Working Demo
 https://gauravbnsl.github.io/github-finder/
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/25008254/120892838-b6f0e280-c62d-11eb-9dbf-1a4766bdb5e4.png)
+![image](https://user-images.githubusercontent.com/25008254/120893688-2668d100-c632-11eb-807f-9ee4e8f31144.png)
 
 # Getting Started with Create React App
 
