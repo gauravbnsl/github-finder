@@ -22,6 +22,12 @@
 	padding: 16px;
 }
 
+.user-wrapper {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 1rem;
+}
+
 .card {
 	display: flex;
 	flex-direction: column;
@@ -36,4 +42,11 @@
 .card:hover {
 	cursor: pointer;
 	box-shadow: 2px 2px 8px 2px purple;
+}
+
+@media screen and (max-width: 550px) {
+	.user-wrapper {
+		grid-template-columns: 1fr;
+		grid-gap: 1rem;
+	}
 }
